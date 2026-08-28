@@ -63,7 +63,7 @@ Resume analysis and job matching system using NLP and Python.
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: [Polam Arunteja](https://www.linkedin.com/in/arun-teja-39018440b/)
+- 💼 LinkedIn: [Polam Arunteja](https://www.linkedin.com/in/polam-arun-teja-39018440b/)
 
 ---
 
